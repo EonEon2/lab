@@ -4,3 +4,4 @@
 4. Zip code : 50828
 5. Tel : 051-000-0000
 6. city : Gimhae
+7. Birth : Oct
