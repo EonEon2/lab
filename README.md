@@ -3,3 +3,4 @@
 3. Mobile : 010-5441-2594
 4. Zip code : 50828
 5. Tel : 051-000-0000
+6. city : Gimhae
